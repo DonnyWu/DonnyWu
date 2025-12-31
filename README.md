@@ -1,5 +1,5 @@
 ## Hi there 👋
-- ⚡ Experiences:
+⚡ Experiences:
   - Software Development Engineer @ Mitsubishi Electric Inc. (Iconics Digital Solutions Division)
   - Software Engineer @ InterPro Solutions (Start-up Company)
   - Undergraduate Computer Science Teaching Assistant @ University Of Massachusetts, Amherst
