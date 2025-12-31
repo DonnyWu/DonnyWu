@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- ⚡ Experiences:
+  - Software Development Engineer @ Mitsubishi Electric Inc. (Iconics Digital Solutions Division)
+  - Software Engineer @ InterPro Solutions (Start-up Company)
+  - Undergraduate Computer Science Teaching Assistant @ University Of Massachusetts, Amherst
+  - First Year Computer Science Peer Mentor @ University Of Massachusetts, Amherst
+  - App development bootcamp Teaching Assistant @ Brandeis University
 <!--
 **DonnyWu/DonnyWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
