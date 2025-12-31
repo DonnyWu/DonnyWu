@@ -5,6 +5,10 @@
   - Undergraduate Computer Science Teaching Assistant @ University Of Massachusetts, Amherst
   - First Year Computer Science Peer Mentor @ University Of Massachusetts, Amherst
   - App development bootcamp Teaching Assistant @ Brandeis University
+    
+🔭 Area of Interests:
+  - Factory Automation
+  - Generative AI predictive maintenance solutions
 <!--
 **DonnyWu/DonnyWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
