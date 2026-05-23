@@ -1,5 +1,5 @@
 ## Hi there 👋
-My Personal Website - https://donnywu.github.io/Web_portfoilo/
+My Personal Website - https://donnywu.github.io/web-portfolio
 
 ⚡ Experiences:
   - Software Development Engineer @ Mitsubishi Electric Inc. (SERENDIE team)
