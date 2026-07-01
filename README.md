@@ -2,7 +2,7 @@
 My Personal Website - https://donnywu.github.io/web-portfolio
 
 ⚡ Experiences:
-  - Software Development Engineer @ Mitsubishi Electric Inc. (SERENDIE team)
+  - Current: Software Development Engineer @ Mitsubishi Electric Inc. (SERENDIE team)
   - Software Development Engineer @ Mitsubishi Electric Inc. (GENESIS team)
   - Software Engineer @ InterPro Solutions (Start-up Company)
   - Software Development Engineer Intern @ Allscripts
