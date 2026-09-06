@@ -11,6 +11,8 @@ My Personal Website - https://donnywu.github.io/web-portfolio
   - App development bootcamp Teaching Assistant @ Brandeis University
     
 🔭 Area of Interests:
+  - Agentic workflows & context engineering for enterprise LLM systems
+  - Production AI integration — from data pipelines to user-facing features
   - Factory Automation
   - Generative AI predictive maintenance solutions
 <!--
