@@ -1,6 +1,8 @@
 ## Hi there 👋
 My Personal Website - https://donnywu.github.io/web-portfolio
+
 Linkedin - https://www.linkedin.com/in/donnie-wu/
+
 ⚡ Experiences:
   - Software Development Engineer @ Mitsubishi Electric Inc. (SERENDIE AI and Cloud System team)
   - Software Development Engineer @ Mitsubishi Electric Inc. (GENESIS team)
