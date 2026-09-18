@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Donnie and I'm currently a software Engineer at Mitsubishi Electric Inc. (SERENDIE AI and Cloud System team)
+
 My Personal Website - https://donnywu.github.io/web-portfolio
 
 Linkedin - https://www.linkedin.com/in/donnie-wu/
