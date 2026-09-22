@@ -1,10 +1,6 @@
 ## Hi there 👋
 My name is Donnie and I'm currently a Software Engineer at Mitsubishi Electric Inc. SERENDIE AI and Cloud System Division
 
-My Personal Website - https://donnywu.github.io/web-portfolio
-
-Linkedin - https://www.linkedin.com/in/donnie-wu/
-
 ⚡ Experiences:
   - Software Development Engineer @ Mitsubishi Electric Inc. (SERENDIE AI and Cloud System team)
   - Software Development Engineer @ Mitsubishi Electric Inc. (GENESIS team)
@@ -19,6 +15,12 @@ Linkedin - https://www.linkedin.com/in/donnie-wu/
   - Production AI integration — from data pipelines to user-facing features
   - Factory Automation
   - Generative AI predictive maintenance solutions
+
+## Connect With Me 
+
+My Personal Website - https://donnywu.github.io/web-portfolio
+
+Linkedin - https://www.linkedin.com/in/donnie-wu/
 <!--
 **DonnyWu/DonnyWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
