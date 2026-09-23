@@ -13,8 +13,8 @@ My name is Donnie and I'm currently a Software Engineer at Mitsubishi Electric I
 🔭 Area of Interests:
   - Agentic workflows & context engineering for enterprise LLM systems
   - Production AI integration — from data pipelines to user-facing features
-  - Factory Automation
-  - Generative AI predictive maintenance solutions
+ <!-- - Factory Automation
+  - Generative AI predictive maintenance solutions-->
 
 ## Connect With Me 
 
