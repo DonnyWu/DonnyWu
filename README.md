@@ -2,7 +2,7 @@
 My name is Donnie and I'm currently a Software Engineer at Mitsubishi Electric Inc. SERENDIE AI and Cloud System Division
 
 ⚡ Experiences:
-  - Software Development Engineer @ Mitsubishi Electric Inc. (SERENDIE AI and Cloud System team)
+  - Software Development Engineer @ Mitsubishi Electric Inc. (SERENDIE AI and Cloud Platform team)
   - Software Development Engineer @ Mitsubishi Electric Inc. (GENESIS team)
   - Software Engineer @ InterPro Solutions (Start-up Company)
   - Software Development Engineer Intern @ Allscripts
