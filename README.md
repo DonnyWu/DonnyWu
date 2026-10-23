@@ -5,7 +5,7 @@ My name is Donnie and I'm currently a Software Engineer at Mitsubishi Electric I
   - Software Development Engineer @ Mitsubishi Electric Inc. (SERENDIE AI and Cloud Platform team)
   - Software Development Engineer @ Mitsubishi Electric Inc. (GENESIS team)
   - Software Engineer @ InterPro Solutions (Start-up Company)
-  - Software Development Engineer Intern @ Veradigm (formerly Allscripts)
+  - Software Development Engineer Intern @ Veradigm (formerly Allscripts INC.)
   - Undergraduate Computer Science Teaching Assistant @ University Of Massachusetts, Amherst
   - First Year Computer Science Peer Mentor @ University Of Massachusetts, Amherst
   - App development bootcamp Teaching Assistant @ Brandeis University
