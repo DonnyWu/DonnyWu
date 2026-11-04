@@ -9,6 +9,7 @@ My name is Donnie and I'm currently a Software Engineer III at Mitsubishi Electr
   - Undergraduate Computer Science Teaching Assistant @ University Of Massachusetts, Amherst
   - First Year Computer Science Peer Mentor @ University Of Massachusetts, Amherst
   - App development bootcamp Teaching Assistant @ Brandeis University
+  - Math Tutor @ Kumon
     
 🔭 Area of Interests:
   - Agentic workflows & context engineering for enterprise LLM systems
