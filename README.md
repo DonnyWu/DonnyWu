@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Donnie and I'm currently a Software Engineer III at Mitsubishi Electric Inc. SERENDIE AI and Cloud System Division
+My name is Donnie and I'm currently a Software Engineer at Mitsubishi Electric Inc. SERENDIE AI and Cloud System Division
 
 ⚡ Experiences:
   - Software Development Engineer @ Mitsubishi Electric Inc. (SERENDIE AI and Cloud Platform team)
